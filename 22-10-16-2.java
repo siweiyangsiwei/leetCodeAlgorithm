@@ -1,4 +1,4 @@
-// leetcode:380
+// leetcode:380 数据结构设计
 // 实现RandomizedSet 类：
 
 // RandomizedSet() 初始化 RandomizedSet 对象

@@ -1,3 +1,4 @@
+// leetcode:1352 前缀和
 // 请你实现一个「数字乘积类」ProductOfNumbers，要求支持下述两种方法：
 
 // 1. add(int num)

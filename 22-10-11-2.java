@@ -1,4 +1,4 @@
-// leetcode:146
+// leetcode:146 数据结构设计
 // 请你设计并实现一个满足  LRU (最近最少使用) 缓存 约束的数据结构。
 // 实现 LRUCache 类：
 // LRUCache(int capacity) 以 正整数 作为容量 capacity 初始化 LRU 缓存
